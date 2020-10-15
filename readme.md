@@ -1,8 +1,8 @@
 <div align="center">
 	<br />
-	<h4>
+	<h1>
 		 Awesome lists about all kinds of interesting topics 
-	</h4>
+	</h1>
   <br />
 </div>
 
